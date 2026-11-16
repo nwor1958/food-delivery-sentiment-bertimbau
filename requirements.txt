@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+huggingface_hub
+torch
+fastapi
+uvicorn
